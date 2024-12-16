@@ -1,4 +1,4 @@
-# MindatxLLM_ESIP2024_Demo
+# MindatxLLM_GPT4o_Demo
 
 Try the demo:
 
